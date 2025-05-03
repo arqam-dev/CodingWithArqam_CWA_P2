@@ -1,5 +1,5 @@
 --> Types of AI:
-  -> Agentic
-  -> Generative
-  -> Visual
-  -> etc etc.
+    -> Agentic
+    -> Generative
+    -> Visual
+    -> etc etc.
