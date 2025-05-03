@@ -1,2 +1,5 @@
-Artificial intelligence 
-machine learning
+--> Types of AI:
+  -> Agentic
+  -> Generative
+  -> Visual
+  -> etc etc.
