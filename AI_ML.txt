@@ -4,23 +4,33 @@
     -> Examples:
         Self driving cars, Speech Recogniton, Virtual Assistant, Spam Filters, Chatbots etc
 
---> Types of Artificial intelligence:
-    -> Based on Capability 
-      -> Narrow AI (Weak AI)                
-      -> General AI (Strong AI)             
-      -> Super AI    
+--> Types of Artificial intelligence:   
+    -> Generative AI:
+        It is used to create new content such as images, vedios, music and code.
+    Examples:
+        ChatGPT, DALL-E, jukebox etc.
+                              
+    -> Visual AI:
+         It is used to see and explain visual information or data that human do.
+    Examples:
+        Self driving cars, Facial Recogniton, Medical imaging analysis etc.
 
-    -> Based on Functionality  
-      -> Reactive Machines                  
-      -> Limited Memory AI                  
-      -> Theory of Mind AI                  
-      -> Self-aware AI                      
+    -> Agentic AI:
+        It is used to Perform tasks which makes decision, think, plan and act independently.
+    Examples:
+        AutoGPT, Siri, Google Assistant, AI Chatbots etc.                     
+    -> Conversational AI:
+        It is used to understand and generate response on the basis of User Input.
+    Examples:
+        ChatGPT, Alexa, Google Assistant etc
+    -> Autonomous AI Systems:
+        It is used to plan, think and perform tasks independently without using human interaction.
+    Examples: 
+       Self driving cars, Delivery drones, Robotic vaccum cleaner etc
+    -> etc              
 
-    -> Based on Emerging Trends   
-      -> Generative AI                      
-      -> Agentic AI                         
-      -> Visual AI                          
-      -> Conversational AI                  
-      -> Autonomous AI Systems              
+--> Large Language Model(LLMs):
+     
+--> Retrieval Augmented Generation(RAGs):
 
 
