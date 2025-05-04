@@ -1,7 +1,6 @@
 --> Artificial intelligence: 
         Artificial intelligence is the theory and development of computer systems which are able to perform tasks just like human intelligence.
-
-    -> Examples:
+    Examples:
         Self driving cars, Speech Recogniton, Virtual Assistant, Spam Filters, Chatbots etc
 
 --> Types of Artificial intelligence:   
@@ -11,7 +10,7 @@
         ChatGPT, DALL-E, jukebox etc.
                               
     -> Visual AI:
-         It is used to see and explain visual information or data that human do.
+        It is used to see and explain visual information or data that human do.
     Examples:
         Self driving cars, Facial Recogniton, Medical imaging analysis etc.
 
