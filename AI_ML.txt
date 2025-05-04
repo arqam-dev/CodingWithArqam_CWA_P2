@@ -3,22 +3,21 @@
     -> Examples:
         Self driving cars, Speech Recogniton, Virtual Assistant, Spam Filters, Chatbots etc
 --> Types of Artificial intelligence:
-    ====================================================================
-|  Category                  | Type                               |
-====================================================================
-|**Based on Capability**     | Narrow AI (Weak AI)                |
-|                            | General AI (Strong AI)             |
-|                            | Super AI                           |
---------------------------------------------------------------------
-|**Based on Functionality**  | Reactive Machines                  |
-|                            | Limited Memory AI                  |
-|                            | Theory of Mind AI                  |
-|                            | Self-aware AI                      |
---------------------------------------------------------------------
-|**Based on Emerging **      | Generative AI                      |
-|                            | Agentic AI                         |
-|                            | Visual AI                          |
-|                            | Conversational AI                  |
-|                            | Autonomous AI Systems              |
-====================================================================
+    ->Based on Capability 
+      -> Narrow AI (Weak AI)                
+      -> General AI (Strong AI)             
+      -> Super AI                          
+    ->Based on Functionality  
+      -> Reactive Machines                  
+      -> Limited Memory AI                  
+      -> Theory of Mind AI                  
+      -> Self-aware AI                      
+
+    ->Based on Emerging Trends   
+      -> Generative AI                      
+      -> Agentic AI                         
+      -> Visual AI                          
+      -> Conversational AI                  
+      -> Autonomous AI Systems              
+
 
