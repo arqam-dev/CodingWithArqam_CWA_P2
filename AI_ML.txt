@@ -72,3 +72,32 @@
       It is used to allow model to select or query the most important data sample that is labeled by human. 
      Examples:
        Document Classification, Road object detection for Autonomous cars etc
+
+--> Algorithms and Models:
+   -> Supervised learning:
+      -> Linear Regression:
+      -> Logistic Regression:
+      -> Decision Tree:
+      -> Random Forest:
+      -> K-NN (K-Nearest Networks):
+      -> Support vector Machine(SVM):
+      -> Naive Bayes:
+      -> Gradient Boosting:
+
+   -> Unsupervised learning:
+      -> K- means clustering:
+      -> DBSCAN:
+      -> Principal Component Analysis(PCA):
+
+   -> Neural Networks and Deep learning:
+      -> Artificial Neural Networks(ANNs):
+      -> Convolutional Neural Networks(CNNs):
+      -> Recurrent Neural Networks(RNNs):
+      -> Long-Short Term Memory(LSTM):
+      -> Transformers:
+      -> Generative Adversial Networks(GANs):
+      
+   -> Reinforcement learning:
+      -> Q-learning:
+      -> Deep Q-Networks(DQN):
+      -> Policy Gradient Method:
