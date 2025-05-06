@@ -53,10 +53,22 @@
      Examples:
            Customer Segmentation, Anamoly Detection, Social Network Analysis 
      -> Reinforcement learning: 
-        It is the type of machine learning in which we have labeled as well as unlabeled data.It is revert back learning in which agent take an action on enviroment will give reward or penalty to them.
+        It is the type of machine learning which is revert back learning in which agent take an action on enviroment will give reward or penalty to them.
      Examples:
         Game Playing, Robotics etc
-     -> Semi-Supervised learning
-     -> Self-Supervised learning
-     -> Transfer learning
-     -> Active learning
+     -> Semi-Supervised learning:
+         It is the type of machine learning in which we have labeled as well as unlabeled data.
+     Examples:
+        Email Classification, Medical imaging etc
+     -> Self-Supervised learning:
+        It is the type of Unsupervised learning in which system generates labels as a Input data to create supervised  learning problem.
+     Examples:
+        Voice Assistant, Text Embeddings for search etc
+     -> Transfer learning:
+      It used pre-trained model and its help  to solve the same problem.
+     Examples:
+       Custom Object Detection by using yolo, Facil Recogniton etc
+     -> Active learning:
+      It is used to allow model to select or query the most important data sample that is labeled by human. 
+     Examples:
+       Document Classification, Road object detection for Autonomous cars etc
