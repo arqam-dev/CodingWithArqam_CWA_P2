@@ -28,15 +28,20 @@
        Self driving cars, Delivery drones, Robotic vaccum cleaner etc
     -> etc              
 
---> Large Language Model(LLMs) vs Retrieval Augmented Generation(RAGs)
+--> Large Language Model(LLMs):
+   -> Focus: It is an powerful AI model which is used for training to understand and generate text.
+   -> Main Goal:  It's generate text based on  given prompt using its training data.  
+   -> Key Technologies: Deep learning, transformers, NLP(Natural Language Processing).  
+   -> Models:  GPT-3, GPT-4, BERT, LLaMA, etc. 
+   -> Examples:  ChatGPT, Google Bard   
 
-| Feature    | LLM(Large Language Model)     | RAG(Retrieval Augmented Generation)
-|---------------|--------------------------------------|----------------------------------|
-| Focus | It is an powerful AI model which is used for training to understand and generate text. | It is AI framework which enhaces accuracy and response generated text by LLM. |
-| Main Goal | It's generate text based on  given prompt using its training data.          | It provides more accurate response using external information. |
-| Key Technologies | Deep learning, transformers, NLP(Natural Language Processing).                | Combination of LLM + vector databases or search engines.  |
-| Models | GPT-3, GPT-4, BERT, LLaMA, etc.                            | RAG by Facebook(Meta), LangChain, OpenAI, Hugging Face. |
-| Examples  | ChatGPT, Google Bard                                    | ChatGPT, AI assistants.                      |
+--> Retrieval Augmented Generation(RAGs): 
+
+   -> Focus: It is AI framework which enhaces accuracy and response generated text by LLM. 
+   -> Main Goal: It provides more accurate response using external information. 
+   -> Key Technologies: Combination of LLM + vector databases or search engines.  
+   -> Models: RAG by Facebook(Meta), LangChain, OpenAI, Hugging Face. 
+   -> Examples: ChatGPT, AI assistants.                      
 
 --> Machine learning:
       It is the set of smart algorithm that learn from data to solve complex problems.
