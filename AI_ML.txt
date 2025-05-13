@@ -81,8 +81,17 @@
 --> Algorithms and Models:
    -> Supervised learning:
       -> Linear Regression:
+        It is an algorithm that provides a Linear relationship between dependent and independent variables to predict future outcomes.
+     Example: 
+        We want to predict a student’s exam score based on how many hours they studied.
       -> Logistic Regression:
+        It is an algorithm that is used for classification tasks in which it predicts the probability between two factors.
+     Example:
+        Predict whether a person has diabetis or not based on their blood sugar test.    
       -> Decision Tree:
+        It is Used for both classification and regression tasks. It builds a tree-like model of decisions and possible outcomes.
+     Example: 
+        Predicting whether a person will play tennis based on  weather conditions.   
       -> Random Forest:
       -> K-NN (K-Nearest Networks):
       -> Support vector Machine(SVM):
