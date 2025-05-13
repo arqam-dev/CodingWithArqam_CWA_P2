@@ -93,11 +93,23 @@
      Example: 
         Predicting whether a person will play tennis based on  weather conditions.   
       -> Random Forest:
+        It is Ensumble learning Method that works for classification and regression tasks by creating multitude decision trees  during training.
+     Example: 
+       Spam detection, Image classification, Disease prediction.
       -> K-NN (K-Nearest Networks):
+        It is supervised machine learning algorithm which is used to predict outputs for a data point based on majority or average of its neighbors during training. 
+     Example:
+       Image recognition, Medical diagnosis.
       -> Support vector Machine(SVM):
+        It is a smart algorithm that is used to draw a boundary to seperate different groups of data.It is used for classification and regression tasks.
+     Example:
+       Classify whether email is spam or not based on features. 
       -> Naive Bayes:
-      -> Gradient Boosting:
+       It is an classification algorithm in which it predicts the probability of different classes based on Bayes theorem.
+     Example: 
+       Weather prediction, Disease diagnosis.
 
+       
    -> Unsupervised learning:
       -> K- means clustering:
       -> DBSCAN:
