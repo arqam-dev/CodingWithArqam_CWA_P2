@@ -163,3 +163,33 @@
       A Reinforcement learning approach that directly optimizes the policy(action probabilities) using gradient ascent.
      Example:
       Training a robot to walk by tweaking movement probabilities.
+
+--> Core Concepts:
+    -> Overfitting:
+     It is condition of Bad Alogorithm in which it learns the training data too well, resulting in poor generalization on unseen data.
+    -> Underfitting:
+     When a model is too simple to capture the underlying patterns in the data, leading to poor performance on both training and new data.
+    -> Bias-variance:
+     The model between a model bias(error due to oversimplification ) and variance(error due to oversensitivity to training data). High bias leads to underfitting and high variance leads to overfitting.
+    -> Loss Functions:
+     A mathematical function that measures difference between predicted values and actual values.
+    -> Regulation:
+     It is a technique in which it prevents overfitting by adding a penalty term to loss function.
+    -> Cross-Validation:
+     This is a technique which is used to check how machine learning model performs accurate on unseen data.
+    -> Feature Engineering:
+     The process of transforming raw data into meaningful features to improve model performance.
+    -> Feature Selection:
+     The process of selecting the most relevant features and removing irrelevent  ones to enhance model accuracy and reduce overfitting.
+    -> Dimensionally Reduction:
+     It use techniques to reduce the number of input features while preserving important patterns, improving computational efficiency and reducing noise.
+    -> Model Evaluation Metrics:
+       -> Accuracy:
+        % of predictions out of total prediction
+       -> Precision:
+        % of true positives among predicted positives(focus false positives)
+       -> Recall: 
+        % of true positives  correctly identified (focus false negative)
+       -> F1-Score:
+        Harmonic mean of precision and  recall, balancing both metrics. 
+
