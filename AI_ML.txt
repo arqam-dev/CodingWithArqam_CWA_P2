@@ -152,5 +152,14 @@
        
    -> Reinforcement learning:
       -> Q-learning:
+      It is Reinforcement learning algorithm that helps an agent learn optimal actions by maximizing rewards in a given state.
+     Example:
+      Teaching a game to win AI to win tic tac toe 
       -> Deep Q-Networks(DQN):
+      A DQN uses deep neural networks to approximate  Q-values in Q-learning , enabling decision-making in high dimensional state spaces.
+     Example:
+       Playing atari game by raw pixels.
       -> Policy Gradient Method:
+      A Reinforcement learning approach that directly optimizes the policy(action probabilities) using gradient ascent.
+     Example:
+      Training a robot to walk by tweaking movement probabilities.
