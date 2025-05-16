@@ -195,16 +195,24 @@
 
 --> Machine learning libraries:
    -> Numpy:
+         It is Ml library which is used for fast numerical computations and working with arrays.
    -> Pandas:
+         It is Ml library which is used for data manipulation and data analysis using Dataframes.
    -> Matplot:
+         It is Ml library which is for plotting graphs and data visualization.
    -> Seaborn:
    -> Scikit-learn:
    -> Tensorflow:
    -> Pytorch:
    -> Scipy:
    -> Keras:
+         
    -> Plotly:
+         It is Data visualization library which is used for interactive and web-based visualization for dashboards and real time data.
    -> OpenCv:
+         It is CV library which is used for real-time computer vision and image processing.
    -> Hugging face transformer:
+         It is NLP library which is used for text generation and classification.
    -> Spacy:
+        It is NLP library which is used for efficient text processing and entity recognition.
 
