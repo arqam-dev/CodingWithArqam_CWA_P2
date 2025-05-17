@@ -213,11 +213,28 @@
    -> Keras:
         It is high-level neural network API in python that is used for simplifies deep learning model and development.
    -> Plotly:
-         It is Data visualization library which is used for interactive and web-based visualization for dashboards and real time data.
+        It is Data visualization library which is used for interactive and web-based visualization for dashboards and real time data.
    -> OpenCv:
-         It is CV library which is used for real-time computer vision and image processing.
+        It is CV library which is used for real-time computer vision and image processing.
    -> Hugging face transformer:
-         It is NLP library which is used for text generation and classification.
+        It is NLP library which is used for text generation and classification.
    -> Spacy:
         It is NLP library which is used for efficient text processing and entity recognition.
 
+--> Prompt Engineering:
+   --> Defination:
+        It is a process where you gives instructions to  Generative AI to generate desire output.
+   --> Clear and specific instructions:
+        It is a process in which we write clear prompts to reduce Ai errors.
+   --> Structured Prompt:
+        It is used for organizing prompts for better responses.
+   --> Role Assignment:
+        It is used for assigning specific role for AI responses.
+   --> Positive VS Negative instructions:
+        Positive instructions is used for telling the AI what to do whereas Negative instructions is used for telling the AI what to Avoid.
+   --> Zero-shot prompting:
+        It is used for getting AI response without examples.
+   --> Few-shot prompting: 
+        It is used for getting AI response with examples to improve AI accuracy.
+   --> Chain of Thought prompting:
+        It encourage to AI to explain problem step by step 
