@@ -238,3 +238,39 @@
         It is used for getting AI response with examples to improve AI accuracy.
    --> Chain of Thought prompting:
         It encourage to AI to explain problem step by step 
+   --> Instructions based vs Completion based prompts: 
+       Instructions based is used for giving direct commands whereas Completion based commands is used for completing the give prompts.
+   --> Self consistency and Iterative refinement:
+       It is used for improving  prompts through mistakes and errors.
+   --> Tree of Thought prompting:
+       It is used for exploring multiple reasoning paths for complex problems.
+   --> Automatic prompt optimization:
+       It use AI to refine prompt automatically.
+   --> Ambiguity prompt:
+       It is used for unclear prompts which leads to irrelevent responses.
+   --> Bias and safety concerns:
+       It is used for preventing harmful AI outputs via careful prompting.
+   --> Precision vs creativity trade-off:
+       Precision focuses on correctness and reliability of data and models while Creativity involves exploring new ideas and approaches which may not always be accurate or reliable. 
+   --> A/B testing prompt:
+        It comparing different prompts to find the best one.
+   --> Human-in-the-loop Validation:
+       It used Human feedback to improve AI outputs.
+   --> OpenAI Playground, Chatgpt, Claude Console:
+       These all tools is used for testing the prompts.
+   --> LangChain/llamaindex:
+       This framework is used for Structured AI interaction.
+   --> Prompt Versioning and Management:
+       This is used for tracking and optimizing prompt iterations.
+   --> AI Chatbots and Virtual Assistant:
+      It is real world use of prompt in Conversational AI .
+   --> Code Generation and debugging:
+        It is used for writing or editing the code.
+   --> Content Generation and summrization:
+       It is used for generating and summarizing articles or text etc by using prompts
+   --> Auto-prompting:
+       It is used for generating its own prompts.
+   --> Multimodel prompting:
+       It use text, images and audio for AI interaction.
+   --> Personalized prompting:
+       This prompt is used for specific domain like medical , legal etc.
