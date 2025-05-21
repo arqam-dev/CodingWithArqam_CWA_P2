@@ -1,3 +1,63 @@
 --> Cybersecurity Core Concepts:
-  -> CIA Trade:
-  -> 
+  -> CIA Trade (Confidentially, Integrity, Availability):
+      -> Confidentially:
+            It ensures that only authorize users can access data.
+         Example:
+             Encrypting a file So only users with the key can read it.
+         Integrity:
+            It ensures that data is accurate and unchanged.
+         Example:
+             Modifying a bank balance without permissions.
+         Availability:
+            It ensures that system and data are accessible when it needed.
+         Example:
+            Using backup servers to maintain uptime during hardware failure.
+          
+  -> Authentication Vs Authoriztion:
+      -> Authentication:
+           It must confirm the user's identity.
+         Example:
+           Logging in with username and password.
+      -> Authoriztion:
+          It gives access to resources based on identity.
+         Example:
+            A logged-in user can view their profile but not access to admin settings.
+
+  -> Types of Cybersecurity:
+
+  -> Firewall:
+      Monitors and filters incoming/outgoing network traffic based on security.
+     Example:
+       A firewall blocks access to unauthorized websites from the company network.
+
+  -> IDS(Intrusion Detection System):
+       It detect and alert suspicious actvity in a network.
+     Example:
+       It raises alert when it detect a port scanning attempt.
+
+  -> IPS(Intrusion Prevention System):
+       It detect and block suspicious actvity in a network at real time.
+     Example:
+       It block DDoS attack before it reaches to server. 
+
+  -> Encryption:
+      It convert data into unreadable form to protect it from unauthorized access.
+     Example:
+      An email can be Encrypted with PGP can only be read by intended recipient.
+
+  -> Symmetric VS Asymmetric:
+  
+    -> Symmetric:
+         It uses one key which is private key.
+       Example: 
+        AES is symmetric which is same key.
+
+    -> Asymmetric: 
+        It uses public-private key.
+       Example:
+        RSA is asymmetric which uses public/private keys 
+
+  -> Hashing:
+      It converts data into fixed length code to verify integrity, not reversible.
+       Example:
+        Password are stores in hashes(like SHA-256) in a database.
