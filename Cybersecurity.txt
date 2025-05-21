@@ -23,7 +23,8 @@
          Example:
             A logged-in user can view their profile but not access to admin settings.
 
-  -> Types of Cybersecurity:
+  -> Types of Threats:
+      -> 
 
   -> Firewall:
       Monitors and filters incoming/outgoing network traffic based on security.
@@ -46,7 +47,7 @@
       An email can be Encrypted with PGP can only be read by intended recipient.
 
   -> Symmetric VS Asymmetric:
-  
+
     -> Symmetric:
          It uses one key which is private key.
        Example: 
@@ -55,9 +56,11 @@
     -> Asymmetric: 
         It uses public-private key.
        Example:
-        RSA is asymmetric which uses public/private keys 
+        RSA is asymmetric which uses public/private keys.
 
   -> Hashing:
       It converts data into fixed length code to verify integrity, not reversible.
        Example:
         Password are stores in hashes(like SHA-256) in a database.
+
+-
