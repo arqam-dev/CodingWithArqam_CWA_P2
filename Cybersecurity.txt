@@ -84,6 +84,7 @@
      Example:
        It block DDoS attack before it reaches to server. 
 
+-> Data and System Protection:
   -> Encryption:
       It convert data into unreadable form to protect it from unauthorized access.
      Example:
@@ -106,4 +107,19 @@
        Example:
         Password are stores in hashes(like SHA-256) in a database.
 
--
+  -> Public Key Infrastructure:
+       Example:
+  -> Private Key Infrastructure:
+       Example:
+  -> Digital Signatures:
+      Example:
+  -> Data Loss Prevention:
+      Example:
+  -> Secure File Transfer Methods:
+      -> SFTP:
+      -> FTPS:
+      -> HTTPS:
+
+ 
+
+
