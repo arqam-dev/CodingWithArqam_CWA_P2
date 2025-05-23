@@ -24,7 +24,50 @@
             A logged-in user can view their profile but not access to admin settings.
 
   -> Types of Threats:
-      -> 
+      -> Malware:
+          Malicious that damaged or gain unauthorized access to system.
+         Example:
+           A virus that deletes files.
+      -> Phishing:
+           Fake messages tricking  users into giving user personal info.
+         Example:
+           Fake bank email asking for login details.
+      -> Ransomware:
+           Lock data and demands  payment to unlock it.
+         Example:
+           You cannot access your file untill you pay to ransom.
+      -> SQL Injection:
+           Insert harmful SQL to input fields to access Databases. 
+         Example:
+           Login form hacked to reveal user data. 
+      -> Cross-Site Scripting(XSS):
+           Injecting malicious scripting into webpages.
+         Example:
+           Script in a block comment steals user cookies.
+      -> Man-in-the-Middle:
+           Monitoring data between two parties.
+         Example:
+           Hacker eavesdrops on public WI-FI traffic.
+      -> Deniel of Service(DDoS/Dos):
+           Overloads a system to making it slow or unavailable to real users.
+         Example:
+           A website crashes due to too many fake visits. 
+      -> Zero Day Exploit:
+           Attacked on unknown software bugs.
+         Example:
+           Hacker exploits a browser flaw before it's fixed.
+      -> Insider Threat:
+           Attack or leak from someone within organization.
+         Example:
+           Employee leaks Confidential data.
+      -> Advenced Persistent Threat:
+           Attackers stay hidden and continuously steal data. 
+         Example:
+           Hacker secretly monitor government network.
+      -> Internet Of Thing(IoT):
+           Tragerting flaws in IoT devices.
+          Example:
+            Hacker access your home camera system.
 
   -> Firewall:
       Monitors and filters incoming/outgoing network traffic based on security.
