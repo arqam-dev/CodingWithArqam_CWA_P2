@@ -137,6 +137,38 @@
           Example:
             When you log in to an online banking site, HTTPS ensures your credientials are encrypted during transfer.
 
+-> Security Policies and Risk Management:
+    -> Security Policies and Procedures:
+          Security Policies are what needs to be done(rules) and Procedures are how to do it(steps)
+        Example:
+        Policy: All company laptops must be encrypted.
+        Procedure: IT Staff  uses bitlocker to encrypt laptops before giving to employees.
+
+    -> Incident Response Lifecycle:
+          This is step-by-step process to detect, responsed to and recover from security incident like hacking or malware.
+          Example:
+           -> Preparation – Train staff for potential threats.
+           -> Detection & Analysis – A system detects a virus.
+           -> Containment – Disconnect infected devices from the network.
+           -> Eradication – Remove the virus.
+           -> Recovery – Restore systems from backup.
+           -> Lessons Learned – Update policies to avoid future issues.
+
+    -> Risk Assessment:
+           It identifies possible threats and vulnerabilities.
+        Example: 
+           It finds that old servers are vulnerable.
+    -> Risk Management:
+           It decides how to reduce or accept those risks.
+        Example:
+          It decides to upgrade them or add a firewall for protection.
+
+    -> Security Awareness and Training Programs:
+          These programs  educate  employees about cyber threat and tech safe behaviour to protect company data.
+        Example:
+         Employees take monthly training to learn how to spot phishing emails and avoid clicking suspicious links.
+
+
  
 
 
