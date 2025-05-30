@@ -108,17 +108,34 @@
         Password are stores in hashes(like SHA-256) in a database.
 
   -> Public Key Infrastructure:
+      It's combination of two keys private and public key to securely send and receive data.It involves digital certificates to verify identifiers. 
        Example:
+       You  send a secure email by someone's public key and only that person read it by their private key.It ensures confidentiality. 
   -> Private Key Infrastructure:
+      It's same with Public key but managed internally within organization without depending on third-party certificates authorities. 
        Example:
+      A university sets up its own internal system to issue secure access certificates to staff and students for logging into campus Wi-Fi and portals without relying on external providers.
   -> Digital Signatures:
+      It's a cryptographic way to identify that messages or document has not changed and send from a verified sender.
       Example:
+      You download a PDF from a government website. The PDF has a digital signature to confirm it really came from the government and was not altered.
   -> Data Loss Prevention:
+      DLP tools and methods prevent sensitive data from being lost, stolen and send outside from network.
       Example:
+      A DLP system alerts HR if someone tries to copy employee personal information to a USB drive  and blocks it.
   -> Secure File Transfer Methods:
-      -> SFTP:
-      -> FTPS:
-      -> HTTPS:
+      -> SFTP(Secure File Transfer Protocol):
+              It sends files over a  secure connection using SSH (Secure Shell)
+          Example:
+             An IT admin uses SFTP to upload backup files from their computer to a secure remote server.
+      -> FTPS(File Transfer Protocol Secure):
+              It is FTP enhanced with SSL/TLS encryption to secure the connection.
+          Example:
+           A bussiness uses FTPS to exchange order data securely with it's supplier server. 
+      -> HTTPS(Hypertext Transfer Protocol Secure):
+              It is HTTP enhanced with SSL/TLS encryption to securely browse the web.
+          Example:
+            When you log in to an online banking site, HTTPS ensures your credientials are encrypted during transfer.
 
  
 
